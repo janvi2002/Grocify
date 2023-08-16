@@ -1,2 +1,3 @@
 # Grocify
-This website is a practice website created using Tailwind CSS.
+Tailwind CSS was used to create this fully responsive practice website.
+Preview- https://grocify-jg.netlify.app/
